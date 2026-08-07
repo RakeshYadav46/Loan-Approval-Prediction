@@ -1,5 +1,5 @@
 # Loan-Approval-Prediction
-# 🏦 Bank Loan Approval Prediction & Analytics
+# 🏦 Loan Approval Prediction & Analytics
 
 An end-to-end Data Analytics project to analyze bank loan applications, identify approval patterns, and build an interactive dashboard using Excel, SQL, Python, and Power BI.
 
